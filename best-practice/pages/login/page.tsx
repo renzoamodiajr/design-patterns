@@ -1,9 +1,9 @@
-import LoginForm from '@/best-practice/components/login/LoginForm'
+import LoginForm from '@/app/components/login/LoginForm'
 
 const Login = () => {
   return (
     <div>
-      <LoginForm/>
+      <LoginForm />
     </div>
   )
 }
