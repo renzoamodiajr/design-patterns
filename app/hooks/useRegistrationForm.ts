@@ -1,4 +1,3 @@
-import { useState, useEffect, ChangeEvent } from 'react'
 import { useForm } from 'react-hook-form'
 import { insertUser } from './useLocalStorage'
 

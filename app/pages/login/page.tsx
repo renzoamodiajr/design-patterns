@@ -1,7 +1,7 @@
 'use client'
 
-import LoginForm from '@/app/components/login/LoginForm'
-import RegisterForm from '@/app/components/register/RegisterForm'
+import LoginForm from '@/app/components/LoginForm'
+import RegisterForm from '@/app/components/RegisterForm'
 import { useState } from 'react'
 
 const Login = () => {

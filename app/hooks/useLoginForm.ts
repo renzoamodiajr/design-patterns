@@ -1,6 +1,6 @@
 import { useState, useEffect, ChangeEvent } from 'react'
 import { useForm } from 'react-hook-form'
-import { getUser } from '../registration/useLocalStorage'
+import { getUser } from './useLocalStorage'
 
 interface LoginFormTypes {
   username: string

@@ -1,4 +1,4 @@
-import { useRegistrationForm } from '@/app/hooks/registration/useRegistrationForm'
+import { useRegistrationForm } from '@/app/hooks/useRegistrationForm'
 import React from 'react'
 
 const RegisterForm = ({

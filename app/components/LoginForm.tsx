@@ -1,6 +1,6 @@
 'use client'
 
-import { useLoginForm } from '@/app/hooks/login/useLoginForm'
+import { useLoginForm } from '@/app/hooks/useLoginForm'
 import React from 'react'
 
 const LoginForm = ({
